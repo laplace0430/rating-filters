@@ -3,10 +3,10 @@
 	"gd": {
 		"win": "2.2081"
 	},
-	"id": "jeond.rating-filters",
+	"id": "laplace0430.rating-filter",
 	"name": "Rating Filter",
-	"version": "1.0.1",
-	"developer": "jeond",
+	"version": "1.0.2",
+	"developer": "laplace0430",
 	"description": "Adds Unfeatured and exact Featured filters to online level search.",
 	"tags": ["online", "enhancement", "interface"],
 	"links": {

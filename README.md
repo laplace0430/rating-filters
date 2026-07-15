@@ -23,7 +23,7 @@ Geometry Dash's online level search.
 
 ## Manual installation
 
-Copy `jeond.rating-filters.geode` into the Geometry Dash `geode/mods` folder,
+Copy `laplace0430.rating-filter.geode` into the Geometry Dash `geode/mods` folder,
 then restart the game.
 
 ## Build

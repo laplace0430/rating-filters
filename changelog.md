@@ -1,3 +1,7 @@
+# v1.0.2
+
+- Corrected the public mod ID and developer name to laplace0430.
+
 # v1.0.1
 
 - Renamed the mod to Rating Filter.

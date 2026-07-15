@@ -1,17 +1,16 @@
-# Rating Filters
+# Rating Filter
 
-Adds exact rating-tier filtering to Geometry Dash's online level search.
+Adds Unfeatured and exact Featured filtering to Geometry Dash's online level
+search.
 
-## Filters
+## Added filters
 
 - Unfeatured
 - Featured
-- Epic
-- Legendary
-- Mythic
 
-Every checkbox is independent. Select any combination and the search returns
-levels matching any selected tier.
+Featured matches regular Featured levels without including Epic, Legendary,
+or Mythic. All five rating checkboxes remain independent, and multiple
+selections return the union of the selected tiers.
 
 For Unfeatured and Featured searches, the mod gathers unique matches from a
 limited range of server pages to provide up to 10 results without repeating

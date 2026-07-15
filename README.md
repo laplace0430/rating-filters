@@ -1,17 +1,16 @@
-# Rating Filters
+# Rating Filter
 
-<img src="logo.png" width="150" alt="Rating Filters logo" />
+<img src="logo.png" width="150" alt="Rating Filter logo" />
 
-A Windows Geode mod that adds exact rating-tier filters to Geometry Dash's
-online level search.
+A Windows Geode mod that adds Unfeatured and exact Featured filters to
+Geometry Dash's online level search.
 
 ## Features
 
-- Filter rated levels by **Unfeatured**, **Featured**, **Epic**,
-  **Legendary**, and **Mythic**.
-- Select any combination of tiers. Every checkbox is independent and the
-  results use union semantics.
-- Distinguish regular Featured levels from Epic, Legendary, and Mythic levels.
+- Adds an **Unfeatured** filter and makes **Featured** exclude Epic,
+  Legendary, and Mythic levels.
+- Keeps Unfeatured, Featured, Epic, Legendary, and Mythic checkboxes fully
+  independent. Multiple selections use union semantics.
 - Fill custom result pages with up to 10 unique levels while keeping adjacent
   pages on separate server-page ranges.
 - Support rated classic and platformer levels.

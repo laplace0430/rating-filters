@@ -1,6 +1,13 @@
+# v1.0.1
+
+- Renamed the mod to Rating Filter.
+- Replaced the logo with an Unfeatured/Featured filter design.
+- Improved search metadata for Unfeatured and Featured queries.
+
 # v1.0.0
 
-- Added independent Unfeatured, Featured, Epic, Legendary, and Mythic filters.
-- Added multi-selection with union matching.
+- Added Unfeatured and exact Featured filters.
+- Made the new filters independent from the existing Epic, Legendary, and
+  Mythic options, with union matching for multiple selections.
 - Added unique result collection for sparse rating tiers.
 - Added support for rated classic and platformer levels.

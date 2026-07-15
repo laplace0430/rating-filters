@@ -1,16 +1,21 @@
 {
-	"geode": "$GEODE_VERSION",
+	"geode": "5.8.2",
 	"gd": {
-		"win": "2.2081",
-		"android": "2.2081",
-		"mac": "2.2081",
-		"ios": "2.2081"
+		"win": "2.2081"
 	},
-	"id": "$MOD_ID",
-	"name": "$MOD_NAME",
-	"version": "$MOD_VERSION",
-	"developer": "$MOD_DEVELOPER",
-	"description": "$MOD_DESCRIPTION",
+	"id": "jeond.rating-filters",
+	"name": "Rating Filters",
+	"version": "1.0.0",
+	"developer": "jeond",
+	"description": "Adds independent rating-tier filters to online level search.",
+	"tags": ["online", "enhancement", "interface"],
+	"links": {
+		"source": "https://github.com/laplace0430/rating-filters"
+	},
+	"issues": {
+		"info": "Report bugs on GitHub",
+		"url": "https://github.com/laplace0430/rating-filters/issues"
+	},
 	"dependencies": {
 		"geode.node-ids": ">=v1.23.3"
 	}

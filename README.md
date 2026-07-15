@@ -1,23 +1,35 @@
-# Template
-This is where she makes a mod.
+# Rating Filters
 
-<img src="logo.png" width="150" alt="the mod's logo" />
+<img src="logo.png" width="150" alt="Rating Filters logo" />
 
-*Update logo.png to change your mod's icon (please)*
+A Windows Geode mod that adds exact rating-tier filters to Geometry Dash's
+online level search.
 
-## Getting started
-We recommend heading over to [the getting started section on our docs](https://docs.geode-sdk.org/getting-started/) for useful info on what to do next.
+## Features
 
-## Build instructions
-For more info, see [our docs](https://docs.geode-sdk.org/getting-started/create-mod#build)
-```sh
-# Assuming you have the Geode CLI set up already
+- Filter rated levels by **Unfeatured**, **Featured**, **Epic**,
+  **Legendary**, and **Mythic**.
+- Select any combination of tiers. Every checkbox is independent and the
+  results use union semantics.
+- Distinguish regular Featured levels from Epic, Legendary, and Mythic levels.
+- Fill custom result pages with up to 10 unique levels while keeping adjacent
+  pages on separate server-page ranges.
+- Support rated classic and platformer levels.
+
+## Requirements
+
+- Geometry Dash 2.2081 for Windows
+- Geode 5.8.2 or newer within the same major version
+- Node IDs 1.23.3 or newer within the same major version
+
+## Manual installation
+
+Copy `jeond.rating-filters.geode` into the Geometry Dash `geode/mods` folder,
+then restart the game.
+
+## Build
+
+```powershell
+$env:GEODE_SDK = 'path\to\GeodeSDK'
 geode build
 ```
-
-# Resources
-* [Geode SDK Documentation](https://docs.geode-sdk.org/)
-* [Geode SDK Source Code](https://github.com/geode-sdk/geode/)
-* [Geode CLI](https://github.com/geode-sdk/cli)
-* [Bindings](https://github.com/geode-sdk/bindings/)
-* [Dev Tools](https://github.com/geode-sdk/DevTools)

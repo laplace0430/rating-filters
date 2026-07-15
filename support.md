@@ -1,2 +1,4 @@
-This file can include information on how users can support you (Ko-Fi or Patreon for example).
-You can also delete this file if you don't need it.
+# Support
+
+Report bugs and feature requests on the
+[GitHub issue tracker](https://github.com/laplace0430/rating-filters/issues).

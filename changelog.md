@@ -1,3 +1,9 @@
+# v1.0.3
+
+- Updated the README and mod description for Korean manual distribution.
+- Clarified that the mod is installed manually from GitHub Releases, not from
+  the Geode Index.
+
 # v1.0.2
 
 - Corrected the public mod ID and developer name to laplace0430.

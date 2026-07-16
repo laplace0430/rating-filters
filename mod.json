@@ -5,9 +5,9 @@
 	},
 	"id": "laplace0430.rating-filter",
 	"name": "Rating Filter",
-	"version": "1.0.2",
+	"version": "1.0.3",
 	"developer": "laplace0430",
-	"description": "Adds Unfeatured and exact Featured filters to online level search.",
+	"description": "Adds Unfeatured and exact Featured filters to Geometry Dash level search.",
 	"tags": ["online", "enhancement", "interface"],
 	"links": {
 		"source": "https://github.com/laplace0430/rating-filters"
